@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Are Cool People Really Cool?</h1>
+<p>I mean, they just walk aroundn flexing their Sofia the First backpacks.</p>
+</body>
+</html>
